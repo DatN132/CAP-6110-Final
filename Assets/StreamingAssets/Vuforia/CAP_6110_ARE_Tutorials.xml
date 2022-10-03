@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget name="Minute-Maid" sideLength="0.061000"/>
+        <ImageTarget name="Exodia" size="0.063500 0.091146"/>
+        <ImageTarget name="Change-of-heart" size="0.063500 0.092921"/>
+        <ImageTarget name="Monster_Reborn" size="0.063500 0.093573"/>
+        <ImageTarget name="Seasonic-PSU.Left" size="0.120000 0.189951"/>
+        <ImageTarget name="Seasonic-PSU.Bottom" size="0.320000 0.120011"/>
+        <ImageTarget name="Seasonic-PSU.Back" size="0.320000 0.189990"/>
+        <ImageTarget name="Seasonic-PSU.Front" size="0.320000 0.190025"/>
+        <ImageTarget name="Seasonic-PSU.Top" size="0.320000 0.120000"/>
+        <ImageTarget name="Seasonic-PSU.Right" size="0.120000 0.189946"/>
+        <MultiTarget name="Seasonic-PSU">
+            <Part name="Seasonic-PSU.Left" translation="-0.1599999964237213 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Seasonic-PSU.Right" translation="0.1599999964237213 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Seasonic-PSU.Front" translation="0 0 0.05999999865889549" rotation="AD: 1 0 0 0"/>
+            <Part name="Seasonic-PSU.Back" translation="0 0 -0.05999999865889549" rotation="AD: 0 1 0 180"/>
+            <Part name="Seasonic-PSU.Top" translation="0 0.0949999988079071 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="Seasonic-PSU.Bottom" translation="0 -0.0949999988079071 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

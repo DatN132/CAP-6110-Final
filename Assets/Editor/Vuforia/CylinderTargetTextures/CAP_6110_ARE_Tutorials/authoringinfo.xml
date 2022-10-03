@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="Minute-Maid" version="3.0" targetId="8da35c4ee8844528b38b705549515d81" sideLength="0.061000" topDiameter="0.060000" bottomDiameter="0.060000" sideImage="Minute-Maid.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
